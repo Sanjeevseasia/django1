@@ -1,0 +1,1 @@
+this is static.Which can seen by everyone on your server
